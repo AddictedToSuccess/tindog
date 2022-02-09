@@ -127,7 +127,6 @@ nav {
  .rotate {
    position: static;
    transform: rotate(0deg);
-   margin: 8rem;
  }
  #title {
    text-align: center;
